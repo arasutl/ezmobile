@@ -1,0 +1,1 @@
+ D:\\Dhanam\\BellTemple\\Bell_Temple_ios\\.dart_tool\\flutter_build\\00913d2fe8e99d43476025773df242b8\\native_assets.yaml: 

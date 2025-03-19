@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "1031635315557",
+    "project_id": "ezofis-v5-mobile",
+    "storage_bucket": "ezofis-v5-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031635315557:android:416cdd4ceaaad687ab4f8c",
+        "android_client_info": {
+          "package_name": "com.belltemple.mobiles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031635315557-74v8c2vndu29dh7d0t2m1pefc8pe9rrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.belltemple.mobiles",
+            "certificate_hash": "e9cc3b0a97e1f58cc1a73624b1b458f3b5f8dee6"
+          }
+        },
+        {
+          "client_id": "1031635315557-hqpk25rl0vc6j7pl3p3dsqh0i8aj7ojf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.belltemple.mobiles",
+            "certificate_hash": "483528a9d1e5311e73442058a6f803cc2be11f28"
+          }
+        },
+        {
+          "client_id": "1031635315557-vh1tft5qhbpvrh11mnmj58bqtbjtcdja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.belltemple.mobiles",
+            "certificate_hash": "4c0bc3b26ae10d11232cde7ed88f6f2578cbb02e"
+          }
+        },
+        {
+          "client_id": "1031635315557-egt7r9ojlddvl5cfqj4ns8pai0guugq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdGgSvkAgSKb0j0yAwX-QlUneUbT6zXPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031635315557-egt7r9ojlddvl5cfqj4ns8pai0guugq9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1031635315557-fvipdr71tnckv855g4g4andumf41ite0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.belltemple.mobiles"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
