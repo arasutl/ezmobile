@@ -1,0 +1,1 @@
+../../../Target Support Files/DKPhotoGallery/DKPhotoGallery-umbrella.h

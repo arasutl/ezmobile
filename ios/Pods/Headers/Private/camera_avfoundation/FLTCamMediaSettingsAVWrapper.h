@@ -1,0 +1,1 @@
+../../../../.symlinks/plugins/camera_avfoundation/ios/Classes/FLTCamMediaSettingsAVWrapper.h

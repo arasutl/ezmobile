@@ -1,0 +1,1 @@
+../../../Target Support Files/flutter_local_notifications/flutter_local_notifications-umbrella.h

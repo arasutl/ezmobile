@@ -1,0 +1,1 @@
+../../../../.symlinks/plugins/device_info_plus/ios/Classes/FPPDeviceInfoPlusPlugin.h
